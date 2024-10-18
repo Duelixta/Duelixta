@@ -6,16 +6,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-montanari-644541218">
+  <a href="https://www.linkedin.com/in/gustavo-montanari-644541218" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/@Duelixta">
+  <a href="https://www.youtube.com/@Duelixta" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" width=100 alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/mntnr__/">
+  <a href="https://www.instagram.com/mntnr__/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@seu_perfil" target="_blank">
+  <a href="https://www.tiktok.com/@duelixta" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
 </a>
 </div>
