@@ -26,11 +26,11 @@
 
 ###
 
-<h3 align="left">👩‍💻 Olá, me chamo Duelixta (claro que não) e tenho atualmente 19 anos.<br> 👽 Hi, my name is Duelixta (ofc not) and im 19 years old. </h3>
+<h3 align="left">👩‍💻 Olá, me chamo Gustavo e tenho atualmente 20 anos.<br> 👽 Hi, my name is Gustavo and im 20 years old. </h3>
 
 ###
 
-<p align="left">Im from Minas Gerais, Brazil.<br>- 🔭 Right now on my first period of Software Engineering for PUC-Minas.<br>- 📚 Currently learning about planguages like HTML,CSS and C. Sooner i will start learning about Python, Js, PHP and perhaps Ruby.<br></p>
+<p align="left">Im from Minas Gerais, Brazil.<br>- 🔭 Right now on my second period of Software Engineering for PUC-Minas.<br>- 📚 Currently learning about Python,C and Coil<br></p>
 
 ###
 
@@ -38,13 +38,8 @@
 <h3>
   <p align="left">Languages</p>
 </h3>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="HtmlLogo"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="CssLogo"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="Clogo" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Pythonlogo" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="Jslogo" />      
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHPlogo" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="RBlogo"  />
 </div>
 <div style="flex-basis: 48%;">
 <h3>
