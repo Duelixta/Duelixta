@@ -22,15 +22,15 @@
 
 ###
 
-<h1 align="center">Eae rapaziada👋 Hello Bahianagem</h1>
+<h1 align="center">Eae rapaziada👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻 Olá, me chamo Gustavo e tenho atualmente 20 anos.<br> 👽 Hi, my name is Gustavo and im 20 years old. </h3>
+<h3 align="left">👩‍💻 Olá, me chamo Gustavo e tenho atualmente 21 anos.<br> 👽 Hi, my name is Gustavo and im 21 years old. </h3>
 
 ###
 
-<p align="left">Im from Minas Gerais, Brazil.<br>- 🔭 Right now on my second period of Software Engineering for PUC-Minas.<br>- 📚 Currently learning about Python,C and Coil<br></p>
+<p align="left">Im from Minas Gerais, Brazil.<br>- 🔭 Right now on my second period of Software Engineering for PUC-Minas.<br>- 📚 Currently learning about Kotlin, aspiring to be a Android Dev.<br></p>
 
 ###
 
